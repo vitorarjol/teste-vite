@@ -1,0 +1,21 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.8b3d87f2.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_dynamic-import-polyfill.b3685604.js"
+    ]
+  },
+  "resources/js/vitor.js": {
+    "file": "assets/vitor.b3805145.js",
+    "src": "resources/js/vitor.js",
+    "isEntry": true,
+    "imports": [
+      "_dynamic-import-polyfill.b3685604.js"
+    ]
+  },
+  "_dynamic-import-polyfill.b3685604.js": {
+    "file": "assets/dynamic-import-polyfill.b3685604.js"
+  }
+}
